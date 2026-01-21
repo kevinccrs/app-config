@@ -1,5 +1,29 @@
 {
-  "habilitado": false,
+  "habilitado": true,
   "mensaje": "Sistema activo",
-  "version_min": "1.0.0"
+  "aviso": "Sistema activo",
+  "version_min": "1.0.0",
+
+  "seguridad": {
+    "permitir_reset_password": true
+  },
+
+  "contacto": {
+    "nombre": "Kevin",
+    "telefono": "+54 342 6335583",
+    "email": "soporte@tusistema.com"
+  },
+
+  "clientes": [
+    {
+      "cliente_id": "CLI-0001",
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "pcs": [
+        "bc0e0799-af90-4e21-81a1-4fb5eecc127f",
+        "HASH_PC_2"
+      ]
+    }
+  ]
 }
+
