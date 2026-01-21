@@ -27,7 +27,7 @@
     "cliente_id": "CLI-0002",
     "nombre": "María",
     "apellido": "Gómez",
-    "habilitado": true,
+    "habilitado": false,
     "aviso": "Sistema activo",
     "permitir_reset_password": true,
     "pcs": [
