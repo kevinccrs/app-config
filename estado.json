@@ -1,12 +1,7 @@
 {
-  "habilitado": true,
   "mensaje": "Sistema activo",
   "aviso": "Sistema activo",
   "version_min": "1.0.0",
-
-  "seguridad": {
-    "permitir_reset_password": true
-  },
 
   "contacto": {
     "nombre": "Kevin",
@@ -19,6 +14,9 @@
       "cliente_id": "CLI-0001",
       "nombre": "Juan",
       "apellido": "Pérez",
+      "habilitado": true,
+      "aviso": "Sistema activo",
+      "permitir_reset_password": true,
       "pcs": [
         "bc0e0799-af90-4e21-81a1-4fb5eecc127f",
         "HASH_PC_2"
@@ -28,6 +26,9 @@
     "cliente_id": "CLI-0002",
     "nombre": "María",
     "apellido": "Gómez",
+    "habilitado": true,
+    "aviso": "Sistema activo",
+    "permitir_reset_password": true,
     "pcs": [
       "HASH_PC_3"
     ]
