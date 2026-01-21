@@ -28,7 +28,7 @@
     "nombre": "María",
     "apellido": "Gómez",
     "habilitado": false,
-    "aviso": "Sistema activo",
+    "aviso": "Sistema bloqueado por falta de pago",
     "permitir_reset_password": true,
     "pcs": [
       "bc0e0799-af90-4e21-81a1-4fb5eecc127f"
