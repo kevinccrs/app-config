@@ -23,7 +23,15 @@
         "bc0e0799-af90-4e21-81a1-4fb5eecc127",
         "HASH_PC_2"
       ]
-    }
+    },
+  {
+    "cliente_id": "CLI-0002",
+    "nombre": "María",
+    "apellido": "Gómez",
+    "pcs": [
+      "HASH_PC_3"
+    ]
+  }
   ]
 }
 
