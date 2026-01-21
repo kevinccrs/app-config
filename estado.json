@@ -19,7 +19,7 @@
       "aviso": "Sistema activo",
       "permitir_reset_password": true,
       "pcs": [
-        "bc0e0799-af90-4e21-81a1-4fb5eecc127f",
+        "bc0e0799-af90-4e21-81a1",
         "HASH_PC_2"
       ]
     },
@@ -31,7 +31,7 @@
     "aviso": "Sistema activo",
     "permitir_reset_password": true,
     "pcs": [
-      "HASH_PC_3"
+      "bc0e0799-af90-4e21-81a1-4fb5eecc127f"
     ]
   }
   ]
