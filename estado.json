@@ -29,7 +29,7 @@
     "apellido": "Gómez",
     "habilitado": false,
     "aviso": "Sistema bloqueado por falta de pagooo",
-    "permitir_reset_password": flase,
+    "permitir_reset_password": false,
     "pcs": [
       "bc0e0799-af90-4e21-81a1-4fb5eecc127f"
     ]
