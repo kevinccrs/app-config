@@ -27,9 +27,9 @@
     "cliente_id": "CLI-0002",
     "nombre": "María",
     "apellido": "Gómez",
-    "habilitado": false,
+    "habilitado": true,
     "aviso": "Sistema bloqueado por falta de pagooo",
-    "permitir_reset_password": true,
+    "permitir_reset_password": false,
     "pcs": [
       "bc0e0799-af90-4e21-81a1-4fb5eecc127f"
     ]
