@@ -44,6 +44,17 @@
     "pcs": [
       "ff42626e-d7ee-4ca0-abcb-d4cfc57560dc"
     ]
+  },
+    {
+    "cliente_id": "CLI-0004",
+    "nombre": "Cecilia",
+    "apellido": "Marquez",
+    "habilitado": true,
+    "aviso": "Sistema bloqueado por falta de pago",
+    "permitir_reset_password": false,
+    "pcs": [
+      "091d8876-7ed9-4b69-98b0-020dd025a0c7"
+    ]
   }
   ]
 }
