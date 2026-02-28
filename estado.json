@@ -66,6 +66,17 @@
     "pcs": [
       "d60103a3-e4a5-46fc-9e5c-1794515a4256"
     ]
+  },
+    {
+    "cliente_id": "CLI-0006",
+    "nombre": "Vanesa",
+    "apellido": "Borda",
+    "habilitado": true,
+    "aviso": "Sistema bloqueado por falta de pago",
+    "permitir_reset_password": false,
+    "pcs": [
+      "9800ac7f-4130-4efe-9d80-4efab64e98e5"
+    ]
   }
   ]
 }
