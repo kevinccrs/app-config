@@ -77,6 +77,17 @@
     "pcs": [
       "9800ac7f-4130-4efe-9d80-4efab64e98e5"
     ]
+  },
+    {
+    "cliente_id": "CLI-0007",
+    "nombre": "Yanina",
+    "apellido": "Chesa",
+    "habilitado": true,
+    "aviso": "Sistema bloqueado por falta de pago",
+    "permitir_reset_password": false,
+    "pcs": [
+      "0617740f-114e-4b78-a254-1e85f61143f6"
+    ]
   }
   ]
 }
