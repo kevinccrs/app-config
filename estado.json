@@ -5,9 +5,9 @@
   "fecha_referencia": "2026-01-20",
 
   "contacto": {
-    "nombre": "Kevin",
+    "nombre": "Kevin Caceres",
     "telefono": "+54 342 6335583",
-    "email": "soporte@tusistema.com"
+    "email": "-"
   },
 
   "clientes": [
@@ -31,7 +31,7 @@
     "aviso": "Sistema bloqueado por falta de pagooo",
     "permitir_reset_password": false,
     "pcs": [
-      "bc0e0799-af90-4e21-81a1-4fb5eecc127f"
+      "bc0e0799-af90-4e21-81a1-4fb5eecc127"
     ]
   },
     {
