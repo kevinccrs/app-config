@@ -40,7 +40,7 @@
     "apellido": "Hang",
     "habilitado": true,
     "aviso": "Sistema bloqueado por falta de pago",
-    "permitir_reset_password": false,
+    "permitir_reset_password": true,
     "pcs": [
       "ff42626e-d7ee-4ca0-abcb-d4cfc57560dc"
     ]
