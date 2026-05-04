@@ -88,6 +88,17 @@
     "pcs": [
       "0617740f-114e-4b78-a254-1e85f61143f6"
     ]
+  },
+    {
+    "cliente_id": "CLI-0008",
+    "nombre": "Pierina",
+    "apellido": "Diaz",
+    "habilitado": true,
+    "aviso": "Sistema bloqueado por falta de pago",
+    "permitir_reset_password": false,
+    "pcs": [
+      "b49931bd-dabe-45e3-ae2d-7bea52b22788"
+    ]
   }
   ]
 }
