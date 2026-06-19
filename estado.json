@@ -99,6 +99,17 @@
     "pcs": [
       "b49931bd-dabe-45e3-ae2d-7bea52b22788"
     ]
+  },
+    {
+    "cliente_id": "CLI-0009",
+    "nombre": "Maria Luz",
+    "apellido": "Vergara",
+    "habilitado": true,
+    "aviso": "Sistema bloqueado por falta de pago",
+    "permitir_reset_password": false,
+    "pcs": [
+      "8e2d6c3d-8dd6-4281-9aa4-f10b5001d530"
+    ]
   }
   ]
 }
