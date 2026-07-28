@@ -110,6 +110,17 @@
     "pcs": [
       "8e2d6c3d-8dd6-4281-9aa4-f10b5001d530"
     ]
+  },
+    {
+    "cliente_id": "CLI-0010",
+    "nombre": "Horacio",
+    "apellido": "Oreggioni",
+    "habilitado": true,
+    "aviso": "Sistema bloqueado por falta de pago",
+    "permitir_reset_password": false,
+    "pcs": [
+      "555160c9-8b8d-4941-b95b-519e9b7025b4"
+    ]
   }
   ]
 }
