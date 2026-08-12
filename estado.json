@@ -121,6 +121,17 @@
     "pcs": [
       "555160c9-8b8d-4941-b95b-519e9b7025b4"
     ]
+  },
+    {
+    "cliente_id": "CLI-0011",
+    "nombre": "Jesua",
+    "apellido": "Muga",
+    "habilitado": true,
+    "aviso": "Sistema bloqueado por falta de pago",
+    "permitir_reset_password": false,
+    "pcs": [
+      "0ecc6aae-1464-4a5d-9bb6-39fca665433c"
+    ]
   }
   ]
 }
