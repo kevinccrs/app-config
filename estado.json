@@ -132,6 +132,17 @@
     "pcs": [
       "0ecc6aae-1464-4a5d-9bb6-39fca665433c"
     ]
+  },
+    {
+    "cliente_id": "CLI-0012",
+    "nombre": "Laura",
+    "apellido": "Leyva",
+    "habilitado": true,
+    "aviso": "Sistema bloqueado por falta de pago",
+    "permitir_reset_password": false,
+    "pcs": [
+      "cc8673e0-7f8c-4580-955d-4bba52c0f7fe"
+    ]
   }
   ]
 }
