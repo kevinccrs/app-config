@@ -104,7 +104,7 @@
     "cliente_id": "CLI-0009",
     "nombre": "Maria Luz",
     "apellido": "Vergara",
-    "habilitado": true,
+    "habilitado": false,
     "aviso": "Sistema bloqueado por falta de pago",
     "permitir_reset_password": false,
     "pcs": [
