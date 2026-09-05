@@ -143,6 +143,17 @@
     "pcs": [
       "cc8673e0-7f8c-4580-955d-4bba52c0f7fe"
     ]
+  },
+    {
+    "cliente_id": "CLI-0013",
+    "nombre": "Carlos",
+    "apellido": "Schnell",
+    "habilitado": true,
+    "aviso": "Sistema bloqueado por falta de pago",
+    "permitir_reset_password": false,
+    "pcs": [
+      "43016d59-6093-496a-8979-96f248b17579"
+    ]
   }
   ]
 }
