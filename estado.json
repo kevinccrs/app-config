@@ -154,6 +154,17 @@
     "pcs": [
       "43016d59-6093-496a-8979-96f248b17579"
     ]
+  },
+    {
+    "cliente_id": "CLI-0014",
+    "nombre": "Santiago",
+    "apellido": "Lechman",
+    "habilitado": true,
+    "aviso": "Sistema bloqueado por falta de pago",
+    "permitir_reset_password": false,
+    "pcs": [
+      "51aa3ca5-1e49-461f-8b3b-c68daca699b0"
+    ]
   }
   ]
 }
