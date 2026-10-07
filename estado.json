@@ -165,6 +165,17 @@
     "pcs": [
       "51aa3ca5-1e49-461f-8b3b-c68daca699b0"
     ]
+  },
+    {
+    "cliente_id": "CLI-0015",
+    "nombre": "Jonatan",
+    "apellido": "Gelabert",
+    "habilitado": true,
+    "aviso": "Sistema bloqueado por falta de pago",
+    "permitir_reset_password": false,
+    "pcs": [
+      "b6dd9e72-e215-4650-82fa-22b26bb5e543"
+    ]
   }
   ]
 }
